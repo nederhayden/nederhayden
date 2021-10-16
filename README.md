@@ -27,7 +27,7 @@
   ##
   
 <div>
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/nederhayden/nederhayden/25c3dcefdb79f8b3cf42cf1a1ab934c999fbb844/linkedin-qr-code.svg">
+  <img align="center" alt="CSS" height="180" width="200" src="https://raw.githubusercontent.com/nederhayden/nederhayden/e46643a7fa654d54ce26fa88b5d5572ed1982702/linkedin-qr-code.svg">
 </div>
 
 <!--
