@@ -17,11 +17,13 @@ Passionate about challenges and team work environment that stimulates me intelle
 <!-- Skills -->
 ## Languages, Tools & Skills
 <!-- Stats -->
+<!--
 <div align="start">
   <a href="https://github.com/nederhayden">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=nederhayden&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nederhayden&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
+-->
   
 <div align="start" style="display: inline_block"><br>
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
