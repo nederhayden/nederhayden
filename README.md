@@ -3,7 +3,7 @@
 Enthusiast in the field of web development. <br /> 
 Passionate about challenges and team work environment that stimulates me intellectually.
 
-- Front-End Developer Junior
+- Front-End Developer
 
 <!-- Social Networks -->
 ## About me
